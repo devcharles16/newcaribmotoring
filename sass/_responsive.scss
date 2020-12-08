@@ -5,6 +5,9 @@
       max-width: 1170px;
     }
   }
+  .hero__inside__item {
+	height: 300px;
+}
   
   /* Medium Device = 1200px */
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -199,6 +202,7 @@
           float: none;
           margin-bottom: 10px;
       }
+    
   
       .sidebar__item__follow__links a, .humberger__menu__about .humberger__menu__about__social a {
           margin-bottom: 10px;
