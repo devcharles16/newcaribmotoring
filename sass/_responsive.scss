@@ -6,7 +6,12 @@
     }
   }
   .hero__inside__item {
-	height: 300px;
+    height: 300px;
+  }
+    .hero{
+    display: none;   
+    }
+
 }
   
   /* Medium Device = 1200px */
@@ -36,6 +41,9 @@
       .footer__instagram__item {
         height: 180px;
       }
+      .hero{
+        display: none;   
+        }
   }
   
   /* Tablet Device = 768px */
@@ -86,6 +94,9 @@
       .footer__instagram__item {
         height: 180px;
       }
+      .hero{
+        display: none;   
+        }
   }
   
   /* Wide Mobile = 480px */
@@ -189,6 +200,9 @@
       .footer__instagram__item {
         height: 180px;
       }
+      .hero{
+        display: none;   
+        }
   }
   
   /* Small Device = 320px */
@@ -283,5 +297,8 @@
           font-size: 100px;
           line-height: 100px;
       }
+      .hero{
+        display: none;   
+        }
       
   }
