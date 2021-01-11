@@ -1468,7 +1468,7 @@ ol {
 	bottom: 0;
 	height: 50%;
 	width: 100%;
-	background: #f4952f;
+	/*background: #f4952f;*/
 	opacity: 0.3;
 	content: "";
 }
