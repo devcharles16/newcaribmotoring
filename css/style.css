@@ -175,7 +175,8 @@ ol {
 	color: #111111;
 	text-transform: uppercase;
 	font-weight: 700;
-	border: 2px solid #166bda;
+	border: none;/*2px solid #166bda;*/
+	
 
 }
 
